@@ -94,6 +94,8 @@ with a focus on building modern AI-enabled .NET applications.
 
 **Tools:** Visual Studio, VS Code, Postman, Git
 
+---
+
 📫 Connect
 
 LinkedIn: [linkedin.com/in/saratkumar](https://www.linkedin.com/in/sarat-kumar-612b3490/)
